@@ -1,0 +1,15 @@
+{
+  "name": "exp",
+  "version": "0.0.1",
+  "description": "Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NgaNguyenDuy",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.9.0"
+  }
+}
